@@ -1,0 +1,29 @@
+{
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "latestRevision": "2023-02-18T13:18:32.912Z",
+  "registryIdentity": {
+    "name": "bcmr for DogeCash",
+    "description": "self-published bcmr for DogeCash token on chipnet",
+    "time": {
+      "begin": "2023-03-07T15:05:11.649Z"
+    }
+  },
+  "identities": {
+    "3706cd7711c1575f03d4b38d076cdae687b707037aff1ce368cddb6e2e6c18b3": [{
+      "name": "DogeCash",
+      "description": "Don't let your dreams be memes",
+      "time": {
+        "begin": "2023-03-07T15:05:11.649Z"
+      },
+      "token": {
+        "category": "3706cd7711c1575f03d4b38d076cdae687b707037aff1ce368cddb6e2e6c18b3",
+        "symbol": "DOGE",
+        "decimals": 0
+      }
+    }]
+  }
+}
